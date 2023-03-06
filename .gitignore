@@ -1,3 +1,12 @@
+# data files to ignore
+## *.csv means that it doesn't mattr comes in front of the .csv
+
+*.csv
+*.xlsx
+*.zip
+*.DS_Store
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
